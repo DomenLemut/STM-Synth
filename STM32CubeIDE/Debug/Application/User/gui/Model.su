@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:13:1:Model::Model()	0	static
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:18:6:void Model::tick()	16	static
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:27:6:void Model::sendNote(int)	8	static
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:32:6:void Model::sendState(int)	8	static

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_A25W" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_AGBD" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_FYJM" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">A#</Translation>
+      </Text>
+      <Text Id="__SingleUse_EITA" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">G#</Translation>
+      </Text>
+      <Text Id="__SingleUse_AF6D" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">F#</Translation>
+      </Text>
+      <Text Id="__SingleUse_H267" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">D#</Translation>
+      </Text>
+      <Text Id="__SingleUse_3J5X" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">C#</Translation>
+      </Text>
+      <Text Id="__SingleUse_80FP" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">H</Translation>
+      </Text>
+      <Text Id="__SingleUse_XQGR" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">A</Translation>
+      </Text>
+      <Text Id="__SingleUse_MOIA" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">G</Translation>
+      </Text>
+      <Text Id="__SingleUse_61BY" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">F</Translation>
+      </Text>
+      <Text Id="__SingleUse_T7GR" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">E</Translation>
+      </Text>
+      <Text Id="__SingleUse_DJI7" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">D</Translation>
+      </Text>
+      <Text Id="__SingleUse_WG4R" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">C</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
